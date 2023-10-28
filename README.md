@@ -63,6 +63,7 @@ sudo cp /path/to/this/repo/motd /etc/motd
 ![](https://i.ibb.co/Gn6FQgh/Untitled-24.png)
 ![](https://i.ibb.co/xMBGp13/Untitled-26.png)
 ![](https://i.ibb.co/m6kFV7q/Untitled-32.png)
+![](https://i.ibb.co/FX3mn7W/Untitled-34.png)
 
 ## Disclaimer
 The Terminal theme is built around a theme called Unikitty, modified by myself. I do not take credit for the original Unikitty theme. The Hasuki Komai fanart is also originally from Pixiv, though I cannot yet find the artist (I shall give attribution when I find them). The PNG has been modified to have a glassy look, as well as upscaled by yours truly, via [waifu2x](https://waifu2x.udp.jp) and [GIMP](https://www.gimp.org). Hasuki Komai, Juliet Persia, Boarding School Juliet, the nation of Touwa, the Principality of West, and all other related characters and places, are registered trademarks of Yousuke Kaneda, Kodansha USA, Liden Films, and associated parties. I do not stake any claim to any of the characters, places or other trademarks, implicit or explicit.
