@@ -52,7 +52,7 @@ echo "It is currently $(date '+%A, %B %d, %Y, %T') Touwa Standard Time."
 ```
 6. Run nano again, and add the contents from the motd file in this repo to your motd file. Alternatively:
 ```zsh
-sudo rm /etc/nano
+sudo rm /etc/motd
 sudo chmod +rwx /path/to/this/repo/motd
 sudo cp /path/to/this/repo/motd /etc/motd
 ```
