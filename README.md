@@ -56,7 +56,7 @@ sudo rm /etc/nano
 sudo chmod +rwx /path/to/this/repo/motd
 sudo cp /path/to/this/repo/motd /etc/motd
 ```
-5. Restart your Terminal shell.
+7. Restart your Terminal shell.
 
 ## Screenshots
 ![](https://i.ibb.co/r3NfGXm/Untitled-22.png)
