@@ -1,7 +1,7 @@
 # Kiwi's Nice Rice (macOS Edition)
 ![](https://i.ibb.co/r3NfGXm/Untitled-22.png)
 
-A simple custom setup that I have for my macOS Terminal, themed around my anime waifu, Hasuki Komai, from Boarding School Juliet.
+A simple custom setup that I have for my macOS Terminal, themed around my favourite female anime character, Hasuki Komai, from Boarding School Juliet.
 
 
 
